@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bernard/bernard": "^0.13.0",
+        "aws/aws-sdk-php": "^3.257"
+    }
+}
